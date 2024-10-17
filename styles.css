@@ -61,3 +61,30 @@ summary:hover, summary:focus {
     color: #0056b3;
     text-decoration: underline;
 }
+
+#table-of-contents {
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#table-of-contents h2 {
+    font-size: 1.3em;
+    margin-top: 0;
+}
+
+#table-of-contents ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#table-of-contents a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+#table-of-contents a:hover {
+    text-decoration: underline;
+}
